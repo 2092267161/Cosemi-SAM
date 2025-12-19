@@ -1,5 +1,5 @@
 
-**SAM results under different methods**
+**1.SAM results under different methods**
 
 <p align="center">
   <strong>Key Performance Visualization</strong><br>
@@ -9,7 +9,7 @@
 
 *Our approach demonstrates superior boundary delineation and regional accuracy, validating BFC-Net's effectiveness.*
 
-**Dice score evolution of SAM and BFC-Net throughout training**
+**2.Dice score evolution of SAM and BFC-Net throughout training**
 <p align="center">
   <strong>Key Performance Visualization</strong><br>
   <img src="figure/dice_training_curves.png" width="1000"/><br>
