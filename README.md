@@ -9,6 +9,7 @@
   <img src="figure/effect of BFC-Net.jpg" width="1000"/><br>
   <em>Fig. 2: The output of BFC-Net was compared with that obtained by substituting BFC-Net with two parallel U-Net networks, with all other conditions held constant on the 10% labeled LA dataset.</em>
 </p>
+
 *BFC-Net and SAM are mutually complementary—BFC-Net provides accurate prompts for SAM, while SAM provides high-precision pseudo-labels for BFC-Net.Our approach demonstrates superior boundary delineation and regional accuracy, validating BFC-Net's effectiveness.*
 
 **2.Dice score evolution of SAM and BFC-Net throughout training**
