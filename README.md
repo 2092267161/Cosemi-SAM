@@ -1,4 +1,4 @@
-<img width="3564" height="1764" alt="dice_training_curves" src="https://github.com/user-attachments/assets/ad0b526e-9424-47d5-9a3b-fb989c7a77b3" /># Cosemi-SAM
+
 **这是一个模型的预测结果示例，展示了在10%标注数据下的分割效果：**
 
 <p align="center">
