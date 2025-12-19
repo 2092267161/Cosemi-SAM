@@ -4,7 +4,7 @@ Rebuttal of Cosemi-SAM
 
 <p align="center">
   <strong>Key Performance Visualization</strong><br>
-  <img src="figure/Rebuttal1.1" width="500"/><br>
+  <img src="figure/Rebuttal1.1.jpg" width="500"/><br>
   <em>Fig. 1: Qualitative comparison on the LA dataset.</em>
 </p>
 
