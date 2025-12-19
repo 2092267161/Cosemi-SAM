@@ -14,4 +14,4 @@
   <em>Fig. 2: Evolution of SAM and BFC-Net Dice Scores Across Iterations.</em>
 </p>
 
-*Our method exhibits stable training without significant fluctuations.*
+*The plot shows Dice scores of SAM (blue) and BFC-Net (orange) during training on ACDC dataset. SAM quickly rises to ~0.84 with stable convergence, while SGDL plateaus near 0.89. BFC-Net significantly outperforms SAM by a final margin of ~0.05, demonstrating superior segmentation efficacy.Our method exhibits stable training without significant fluctuations.*
