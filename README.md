@@ -15,7 +15,7 @@
 **2.Architecture of MCVT**
 <p align="center">
   <img src="figure/MVCT" width="1000"/><br>
-  <em>Fig. 3: The architecture of MCVT.png.</em>
+  <em>Fig. 3: The architecture of MVCT.png.</em>
 </p>
 
 *MVCT, which stands for multi-view co-training, originates from the paper "Learnable prompting sam-induced knowledge distillation for semi-supervised medical image segmentation". It takes three inputs—a difference map, an uncertainty map, and a prediction map—extracts features from each respectively, and fuses them to generate the output.*
