@@ -1,5 +1,5 @@
 
-**1.Effect of BFC-Net**
+>**1.Effect of BFC-Net**
 
 <p align="center">
   <img src="figure/Rebuttal1.1.jpg" width="1000"/><br>
