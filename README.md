@@ -12,15 +12,15 @@
 
 *BFC-Net and SAM are mutually complementary—BFC-Net provides accurate prompts for SAM, while SAM provides high-precision pseudo-labels for BFC-Net.Our approach demonstrates superior boundary delineation and regional accuracy, validating BFC-Net's effectiveness.*
 
-**1.Architecture of MCVT**
+**2.Architecture of MCVT**
 <p align="center">
-  <img src="figure/Rebuttal1.1.jpg" width="1000"/><br>
-  <em>Fig. 3: The architecture of MCVT.</em>
+  <img src="figure/MVCT" width="1000"/><br>
+  <em>Fig. 3: The architecture of MCVT.png.</em>
 </p>
 
 *MVCT, which stands for multi-view co-training, originates from the paper "Learnable prompting sam-induced knowledge distillation for semi-supervised medical image segmentation". It takes three inputs—a difference map, an uncertainty map, and a prediction map—extracts features from each respectively, and fuses them to generate the output.*
 
-**2.Dice score evolution of SAM and BFC-Net throughout training**
+**3.Dice score evolution of SAM and BFC-Net throughout training**
 <p align="center">
   <img src="figure/dice_training_curves.png" width="1000"/><br>
   <em>Fig. 4: Evolution of SAM and BFC-Net Dice Scores Across Iterations.</em>
